@@ -4,7 +4,7 @@ Daily tasks
 
 <h1 align="center">Hi 👋, I'm Ahmed Abdalla</h1>
 <h3 align="center">A data scientist with consulting experience</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com.sa/imgres?imgurl=https%3A%2F%2Fchools.in%2Fwp-content%2Fuploads%2Fdata-science-2-1.gif&tbnid=IA-aRpasDaggTM&vet=12ahUKEwiRzujzn4j-AhUhmicCHTh8D8IQMygMegUIARCRAg..i&imgrefurl=https%3A%2F%2Fchools.in%2Fcrash-course-in-data-science%2F&docid=wkMtrHkd82dklM&w=640&h=640&q=animated%20data%20scientist%20gif&ved=2ahUKEwiRzujzn4j-AhUhmicCHTh8D8IQMygMegUIARCRAg”>
+<img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ds-ahmed" /> </p>
 
