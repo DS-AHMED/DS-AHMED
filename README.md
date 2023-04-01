@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdalla</h1>
 <h3 align="center">A data scientist with consulting experience</h3>
-<img align="right" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align="right" alt="Coding" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ds-ahmed" /> </p>
@@ -17,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ds-ahmed&show_icons=true&locale=en&layout=compact" alt="ds-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ds-ahmed&show_icons=true&locale=en" alt="ds-ahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ds-ahmed&" alt="ds-ahmed" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ds-ahmed&show_icons=true&locale=en" alt="ds-ahmed" /></p>
+ -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ds-ahmed&" alt="ds-ahmed" /></p>
+ -->
