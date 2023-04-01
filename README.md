@@ -1,7 +1,3 @@
-Daily tasks
-
-
-
 <h1 align="center">Hi 👋, I'm Ahmed Abdalla</h1>
 <h3 align="center">A data scientist with consulting experience</h3>
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif”>
