@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ds-ahmed" /> </p>
 
-- 🔭 I’m currently working on **openAI PROJECT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
